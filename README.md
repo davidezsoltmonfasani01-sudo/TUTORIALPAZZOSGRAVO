@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/custom.css">
+<script src="assets/js/copy.js"></script>
 # 🎉BENVENUTI LOSCHI FIGURI NEL TUTORIAL PER SETTUPARE GIT😎
 
 Seguite i passaggi in ordine e sarete pronti a clonare, committare e pushare come dei programmatori russi pagati a patate e vodka
