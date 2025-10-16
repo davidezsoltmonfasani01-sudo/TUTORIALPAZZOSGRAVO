@@ -1,6 +1,7 @@
 title: "TUTORIAL PAZZO SGRAVO"
 description: "Benvenuti loschi figuri nel tutorial per settupare Git 😎"
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 markdown: kramdown
 title: "TUTORIAL PAZZO SGRAVO"
 description: "Git setup per brosky 🧠"
