@@ -153,10 +153,41 @@ oppure
 git config --global core.editor "notepad"
 ```
 
+## 4.3  Clonare un repository GitHub già esistente 
 
+Clonare una repository significa scaricare una copia completa del progetto (con tutta la sua cronologia Git) sul tuo computer.
+### 1. Copia l’URL del repository
+
+Vai sulla pagina GitHub del progetto → clicca sul pulsante verde “<> Code” → copia il link HTTPS.
+```
+https://github.com/davidezsoltmonfasani01-sudo/TUTORIALPAZZOSGRAVO.git
+```
+
+### 2. Apri PowerShell (Windows) o il Terminale (Linux/macOS)
+
+Posizionati nella cartella dove vuoi scaricare il progetto:
+```
+cd Desktop
+```
+### 3. Clona la repository
+
+Usa il comando:
+```
+git clone https://github.com/davidezsoltmonfasani01-sudo/TUTORIALPAZZOSGRAVO.git
+```
+
+Questo crea una nuova cartella con dentro tutti i file e la storia dei commit.
+
+### 4. Entra nella cartella del progetto
+```
+cd TUTORIALPAZZOSGRAVO
+```
+
+Ora sei dentro la repo locale, puoi lavorarci, modificare file, fare commit e pushare.
 
 
 #  COMANDI BASE DI GIT 💻
+
 
 Benvenuti alla seconda parte del tutorial per **loschi figuri** 🦹‍♂️  
 Qui impariamo i comandi essenziali per gestire un progetto con Git: aggiungere, salvare, spingere, creare branch, fondere e tornare indietro nel tempo ⏳ per scoparci nostra madre 
